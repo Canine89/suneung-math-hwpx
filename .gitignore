@@ -1,0 +1,11 @@
+# 저장소에는 스킬·AGENTS.md·조판 도구만 올린다 (문항·결과물·그림·보관본 제외)
+/*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/.claude/
+/.claude/*
+!/.claude/skills/
+!/tools/
+/tools/__pycache__/
+/tools/secmod/
