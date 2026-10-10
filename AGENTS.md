@@ -19,6 +19,7 @@ tools/render.py       PDF → 쪽 PNG        tools/contact.py   쪽 PNG 이어 �
 tools/gaps.py         양쪽 정렬로 벌어진 줄 찾기 (문항 넘침 검사는 build.py 가 자동으로 함)
 tools/answers.py      정답표             tools/secmod/      한글 자동화 보안 모듈
 output/               결과 (hwpx, pdf, 정답표.txt)
+samples/<회차>/       끝난 회차 보관본 = 참고용 샘플 (problems, figures, output). 그림 요청 방식은 각 회차 FIGURE_SPEC.md·DONE.txt 참고
 .claude/skills/suneung-exam-hwpx/   Claude용 절차·실측값·수식 문법·Codex 협업 문서
 ```
 Python: `C:\Users\canine89\AppData\Local\Programs\Python\Python312-arm64\python.exe` (pymupdf, pillow, sympy 설치됨)

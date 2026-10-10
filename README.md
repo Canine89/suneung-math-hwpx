@@ -11,6 +11,8 @@ Claude Code(출제·조판·검수)와 Codex 앱(그림, image gen)이 Herdr 작
   - `hwpx.py` HWPX XML 빌더, `hwp_com.ps1` 한글 COM 처리
   - `render.py`·`contact.py` 쪽 이미지 검토, `gaps.py` 양쪽 정렬로 벌어진 줄 찾기, `answers.py` 정답표
 
+- `samples/` — 실제로 만든 수학 영역 모의 문제지 3회분(문항 데이터, 그림, 결과 hwpx/pdf, 정답표). [samples/README.md](samples/README.md)
+
 ## 필요 환경
 - Windows + 한컴오피스 한글(2024에서 확인) — 신명·한양 HFT 글꼴과 HYhwpEQ 수식 글꼴이 함께 설치됨
 - Python 3.12 (`pip install pymupdf pillow sympy`)

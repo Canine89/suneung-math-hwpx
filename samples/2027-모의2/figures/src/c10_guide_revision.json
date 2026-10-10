@@ -1,0 +1,32 @@
+{
+  "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-5a9220ea-837b-42d8-b37e-6ba2cb20ed62.png",
+  "prompt": "Edit the supplied exact mathematical GUIDE into a final Korean CSAT exam diagram. Copy/tracing the guide's geometry precisely is the primary task. Maintain identical relative positions of EVERY stroke and every dot; NO rearranging. This guide is correct: A B C D equal horizontal spacing, C far to right of B; A andB upperline, C andD lowerline; all four ON sine. The lightgray parallelogram A-B-D-C has two straight parallel diagonals AC andBD. Sine is separate smoothly curved stroke BETWEEN those diagonals across the gray region, rising above AB and dipping below CD. Retain this exactly. Only refine raster clarity into fine uniform black exam line art, solid lightgray#D9D9D9 flat fill, purewhite opaque background. Keep all existing labels in the same positions, y=k,y=−k,x,y italic serif; A B C D O upright Roman serif. No numbers/grid/title/equation. Do not change shape, spacing, curve intersections or framing. Output faithful clean facsimile of guide.",
+  "reference": "figures/src/raw/fig_c10_guide.png",
+  "method": "matplotlib coordinate guide; image_gen final result; Pillow packaging only",
+  "inspection": {
+    "point_centres_px": [
+      [
+        259,
+        239
+      ],
+      [
+        570,
+        239
+      ],
+      [
+        873,
+        735
+      ],
+      [
+        1183,
+        735
+      ]
+    ],
+    "horizontal_gaps_px": [
+      311,
+      303,
+      310
+    ],
+    "notes": "All four dots on sine; four straight polygon edges meet dots; spacing maximum deviation from mean ~1.6%."
+  }
+}

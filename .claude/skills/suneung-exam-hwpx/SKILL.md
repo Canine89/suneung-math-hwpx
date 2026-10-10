@@ -13,13 +13,17 @@ description: 대학수학능력시험(수능) 문제지와 같은 양식의 문�
 - `reference/hwp-equation.md` — 한글 수식 스크립트 문법과 수능식 표기 습관
 - `reference/codex-figures.md` — Herdr로 Codex에 그림 맡기기, 사양서 쓰는 법, 검수 기준
 - `templates/exam_example.py`, `verify_example.py`, `FIGURE_SPEC_example.md` — 완성된 2027 모의 수학 영역(46문항)
+- 프로젝트 루트 `samples/2027-모의1~3/` — 실제로 만든 회차들의 문항·그림·결과 hwpx/pdf (참고용 샘플)
 
 Python: `C:\Users\canine89\AppData\Local\Programs\Python\Python312-arm64\python.exe` (아래 `PY`)
 
 ## 0. 준비 확인
 - 한글(한컴오피스) 설치, COM 등록(`HWPFrame.HwpObject`), 보안 모듈 레지스트리 등록 — AGENTS.md 공통 규칙 참고.
 - Herdr 안에서 실행 중인지(`HERDR_ENV=1`)와 Codex 탭이 있는지 `herdr agent list` 로 확인. 없으면 사용자에게 오른쪽 탭에 Codex를 열어 달라고 한다.
-- 새 문제지를 만들기 전에 이전 결과를 덮어써도 되는지 본다. 보존하려면 `problems/exam.py`·`figures/`·`output/` 을 회차 이름 폴더로 옮겨 둔다(예: `archive/2027-모의1/`).
+- 새 문제지를 만들기 전에 이전 회차를 `samples/<회차>/` 로 옮긴다: `problems/`, `figures/`(src/raw 포함해도 됨 — 저장소에서는 자동 제외), `output/` 의 그 회차 결과(hwpx·pdf·정답표).
+  `samples/README.md` 의 회차 표에 한 줄 추가. 그 뒤 작업 폴더의 `figures/fig_*.png`, `DONE.txt`, `src/` 를 비우고 시작.
+- **참고 자료로 `samples/` 를 먼저 본다**: 이전 회차의 `exam.py`(문항 형식·난이도·배치), `FIGURE_SPEC.md`(그림 요청 방식), `DONE.txt`(Codex 검수 기록).
+  같은 문항을 되풀이하지 않도록 이전 회차와 소재·수치를 겹치지 않게 출제한다.
 
 ## 1. 출제 — `problems/exam.py`
 - 형식은 파일 상단 docstring과 `templates/exam_example.py` 그대로. 블록: `t` 문장, `eq` 가운데 수식, `box` (가)(나) 조건, `fig` 그림, `ch` 보기, `side` 본문+표준정규분포표.

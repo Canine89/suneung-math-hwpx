@@ -1,0 +1,130 @@
+{
+  "style": "Scientific educational Korean CSAT mathematics exam figure, clean thin BLACK line art on PURE WHITE opaque background, serif labels approximately10pt at print width, italic equations/variables and UPRIGHT ROMAN point names. Curve0.6pt axes0.5pt. Flat lightgray #D9D9D9 only requested shading. No title/frame/legend/grid/ticks/extra numbers. Tiny filled axis arrows ONLY positive ends. Tight framing. Mathematical proportions priority.",
+  "jobs": [
+    [
+      "fig_c08",
+      55,
+      "Coordinate plot parabola y=x²−2x vertex(1,-1),zeros0 and2; line y=2x through origin and(4,8). Intersection(4,8). Fill ONLY between curve and line x0..4 including below x axis. Dashed vertical from(4,8) to(4,0), label4 below. OriginO no dot, axesx y. Labels y = x² − 2x upperright parabola, y = 2x top of line. Parabola smooth correct curvature, vertex horizontally25% of origin-to-intersection width, zero50%. Range x-1..5,y-1.5..10."
+    ],
+    [
+      "fig_c10",
+      65,
+      "One full sine cycle y=3sin(πx/4) on0..8. Uniform x scale: zero0,peak2,zero4,trough6,zero8END. Horizontal lines y=k and y=−k, k=2.121. Four dots A(1,k),B(3,k),C(5,−k),D(7,−k). A B C D horizontal positions EXACTLY evenly spaced, each gap2. A B top row, C D bottom row; C under right of B, D rightmost. Draw parallelogram A→B→D→C→A with ALL FOUR STRAIGHT EDGES, lightgray interior. Sine distinct from diagonals, curves through all four dots. Peak centered betweenA B, trough centered betweenC D. Upper/lower amplitudes symmetric. Curve ends x8 at axis, no continuation. Line labels y = k, y = −k at right. O x y only other labels, no curve equation label."
+    ],
+    [
+      "fig_c14",
+      50,
+      "Circle and inscribed points exact coordinates B(0,0),C(3,0),A(-2.5,4.330),D(4,6.928). Circle center(1.5,3.753),radius4.041. A leftmost roughly middle-upper,B bottom-left,C bottom-right,D upper-right. Six STRAIGHT segments AB BC CA AD DC BD, no fill/no axes. A B C D dots and upright names outside circle. Preserve AB5 BC3 angleABC120degrees, AD=CD. No numbers/equations."
+    ],
+    [
+      "fig_c21",
+      55,
+      "Two exponential curves LEFT y = 2ˣ and RIGHT y = 2ˣ⁻³. Use t=1,k=2: A(1,2),B(4,2),C(4,16),D(1,.25). Compress y uniformly if useful. A D same vertical line,B C same vertical line,A B same horizontal line y=k. C high upperright,D just above xaxis left. Straight quadrilateral A→D→B→C→A, gray entire interior, FOUR straight edges AD DB BC CA; CA diagonal from highC toA, DB diagonal fromlowD toB. Horizontal y=k line acrossplot, label y = k at right. Draw both exponential curves: LEFT throughA C, RIGHT throughD B. Labels y = 2ˣ, y = 2ˣ⁻³ beside respective upper curve ends. Black dots and upright A B C D,O belowleft origin,axesx y. No numbers."
+    ],
+    [
+      "fig_m27",
+      55,
+      "Coordinate plot upper half sine y=2sin x from(0,0) to(π,0),peak(π/2,2). Horizontal y=1. Crossings xπ/6 and5π/6: 1/6 and5/6 of full hump width. Shade ONLY cap above horizontal line and below sine betweencrossings. Symmetric hump, peak exactlycentered and twice horizontal line height aboveaxis. Labels y = 2 sin x above-right peak,y = 1 at right line,π below right endpoint onxaxis,O x y. No dot/no other numbers."
+    ],
+    [
+      "fig_m29",
+      55,
+      "NO AXES. Upper SEMICIRCLE unitradius center(0,0) UNLABELED, endpointsA(-1,0) left,B(1,0) right,diameterAB horizontal. P(cos50°,sin50°)=(.643,.766) on upperright arc, H(.643,0) directlybelowP. Draw AB semicircular arc,AP PH PB STRAIGHT. Small angle arc atA betweenAB andAP, labelθ, angle roughly25degrees but NO numeral. TrianglePHB darkergray#BFBFBF. Circular segment bounded chordPB and arcPB LIGHTGRAY#D9D9D9, separate two fills. Remaining semicircle white. Black dots onlyA B P H,upright names: Pabove,Hbelowfoot,Bbelowright,Aleft. H at82.15% of A-to-B diameter. No center label."
+    ],
+    [
+      "fig_g26",
+      60,
+      "Coordinate plane HYPERBOLA x²/9−y²/16=1 TWO separate left/right branches opening horizontally, vertices(-3,0),(3,0). No asymptotes. F(5,0),F′(-5,0) symmetric onaxis fartherfromorigin thanvertices. P(4.2,3.92) onupperRIGHT branch, dot. DrawPF PF′ straight segments. P lies horizontally betweenvertex3 andfocus5. Hyperbola branch equations x=±3sqrt(1+y²/16), drawy-6..6, smooth curved U sideways. Labels F F′ P O x y ONLY. DotsF F′ P. No equation/numbers/shading."
+    ],
+    [
+      "fig_g28",
+      50,
+      "Oblique perspective geometry: planeα thin black parallelogram flat horizontal receding, α nearcorner. SquareABCD inplane shown parallelogram: paperA(0,0) frontleft,B(3,0) frontright,D(1.4,1.1) backleft,C(4.4,1.1) backright. P(0,3.2) verticallyaboveA. Draw squareedgesAB BC CD DA and PA PB PD BD ALL SOLID no hidden edges. TrianglePBD filledlightgray with STRAIGHT bordersPB BD DP. PAvertical,pointA small rightanglemark betweenPA andAB. Upright namesPabove,Afrontleft,Bfrontright,Cbackright,Dbackleft. Blackdots. No axes/no lengthnumbers. Plane border beyondsquare,α italic atcorner."
+    ]
+  ],
+  "selected_sources": {
+    "fig_c08": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-2979c11b-81ef-4666-beff-29e41147b6af.png",
+    "fig_c10": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-5a9220ea-837b-42d8-b37e-6ba2cb20ed62.png",
+    "fig_c14": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-f39d1f91-eb0a-407c-8c62-31d59aef2700.png",
+    "fig_c21": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-b555f419-c827-47dd-ac2a-1857a0ec2a98.png",
+    "fig_m27": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-8f5a402b-1d63-44d8-8ac3-2863bcf12293.png",
+    "fig_m29": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-de6d1a92-e30c-4ed8-9603-006915e22442.png",
+    "fig_g26": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-314b3c95-cee5-4238-8450-553eb678dbc4.png",
+    "fig_g28": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-e27f97ee-c3a2-49ba-9cbd-787bac0c65d5.png"
+  },
+  "edits": {
+    "c08": "Fix equation label positions ONLY. Steep curved parabola rising nearlyvertically aboveintersection must have y = x² − 2x beside its upperend. Straight diagonal y=2x extendingupperright must have y = 2x beside its end. Keep graph geometryshade dashed4 axislabelsOxy unchanged. Rearrange label positions to associate eachwithcorrectline with nooverlap. Whitebackground.",
+    "c14": "Correct ONLY BD to a perfectly straight ruler segment from dotB to dotD (currently curves at B). All six chords must be straight. Make AD andDC equal lengths by coordinate geometry: center(1.5,3.753),radius4.041,B(0,0),C(3,0),A(-2.5,4.33),D(4,6.928). No labels for coordinates. Keep romanA B C D outsidecircle,blackdots,white background,no shade,no axes.",
+    "c21": "Edit this diagram. Left exponential y=2ˣ must pass through BOTH A AND C. Replace segment of LEFT exponential above A with smooth convex increasing curve BELOW straight chordAC insidegraypolygon, reaching C exactly then continuing upward-right beyondC. Move label y = 2ˣ to upper end of that curve nearC. The old exponential extending aboveleftC must be removed. Keep straightAC unchanged. Right exponential remains throughD B. Remove black dot at originO (keepO text). Keep all polygonlines,fill,A D samevertical B C samevertical and labels. No new text. Purewhite.",
+    "m29": "Change ONLY fill and P typography. TrianglePHB flatdarkergray #BFBFBF. Segment between STRAIGHT chordPB and curvedarcPB flat LIGHTERGRAY #D9D9D9, distinctlylighter thantriangle. Keep restsemicirclewhite. LabelP upright roman serif notitalic. Keep geometrylinesA B H θ and allpositions unchanged.",
+    "g26": "Minimaledit: remove ONLY blackdot atoriginaxesintersectionO; keeptwoaxesandOtext. Change pointnamesF F′ P to UPRIGHT regularROMANserif,notitalic. Keep allgeometryfocusdotsPdotcurvessegments andwhitebackground unchanged.",
+    "g28": "Minimaledit: make P A B C D names UPRIGHT ROMANserif regular notitalic. Move rightanglemarker atA to mark between verticalPA and HORIZONTAL AB,not betweenPA anddiagonalAD. Marker is smallsquarecorner directlyupperrightofA: shortvertical fromAB andshorthorizontal toPA. Keep planeα,geometryallsolidlines,graytrianglePBD,allpositionswhitebackgroundunchanged.",
+    "c10": "Scientific educational Korean CSAT mathematics exam figure, clean thin BLACK line art on PURE WHITE opaque background, serif labels approximately10pt at print width, italic equations/variables and UPRIGHT ROMAN point names. Curve0.6pt axes0.5pt. Flat lightgray #D9D9D9 only requested shading. No title/frame/legend/grid/ticks/extra numbers. Tiny filled axis arrows ONLY positive ends. Tight framing. Mathematical proportions priority.\nNEW precise one-cycle SINE diagram with FOUR equidistant dots. Conceptual horizontal positions O=100,A=250,B=550,C=850,D=1150,endpoint=1300. A B C D all300 apart. A B on upperline y=k, C D onlowerline y=−k. Peak horizontal400,trough1000,zero700. Screen heights: axis500,upperline288,lowerline712,peak200,trough800. Draw smooth sine fromO throughA peak B zero C trough D endpoint. Draw gray PARALLELOGRAM with vertices A250,288 → B550,288 → D1150,712 → C850,712 → A250,288. Four STRAIGHT boundaries, parallel AC andBD. Show sine OVER fill as black curve, NOT use sine as polygon border. All dots black labeled ONLY letters A B C D, no coordinates/numbers. Leftaxes O x y,positive arrows,lines labeled y = k and y = −k at right. WHITE background, no formula label for curve. Shape of sine matters: upperpeak andlowertrough equal amplitude, fullcycle END onxaxis. Exact evenly spaced A B C D required.",
+    "c10b": "Correct this mathdiagram. Gray region must be STRAIGHT EDGED parallelogram ABCD orderA B D C. Keep A dot at334,216,B649,216,C move to964,778,D1279,778. All successive horizontal gaps315 exactly. Draw AC straight from334,216 to964,778 andBD straight649,216 to1279,778, parallel. Fill ONLY inside these four straight borders AB BD DC CA, do not use sine as shadingborder. Sine must pass THROUGH C964,778 andD1279,778; trough centered between them at1121,855; positivepeak centeredA B at491,97. Adjust sine smoothly, curve zero midway betweenB andC at806,476; end at1437,476. Thus C is ON sine descendingbranch notleftofcurve. Preserve labelsONLY A B C D O x y and line labels y = k y = −k. No numbers/coords in image. Upright point names.",
+    "c10c": "A precise mathematics textbook diagram. FIRST draw a parallelogram: top leftA=(200,250),top rightB=(500,250),bottom leftC=(800,650),bottom rightD=(1100,650). Draw AB,BD,DC,CA with FOUR STRAIGHT black lines, fill #D9D9D9. A B C D evenly spaced horizontal200,500,800,1100. THEN overlay a distinct sinusoidal curve: starts(50,450), goes throughA, peaks(350,167),goes throughB,crosses(650,450),goes throughC,trough(950,733),goes throughD,ends(1250,450). Sine passes ALL FOUR dots and continues without corners. Do not replace polygon edges with the sine. There are exactly FOUR dots and their labels ONLY A B C D. Horizontal lines y=k throughA B and y=−k throughC D extending right labels. Coordinate axes crossing(50,450),positive arrows x right,y up,originO belowleft. No other text,numerals,grid,ticks. Black thin lineart purewhite background,serif roman pointlabels,italic variablelabels,10ptprintwidth65mm. The key subject is a gray STRAIGHT EDGED parallelogram pierced by a smooth sine curve.",
+    "c10d": "Minimal math exam diagram ONLY a gray parallelogram on coordinate plane. A upperleft,B uppermiddle,C lowermiddle,D lowerright. Screen verticesA(250,250),B(550,250),C(850,750),D(1150,750), edgesAB BD DC CA perfectlystraight, AC parallelBD. Four horizontal positions2505508501150 evenlyspaced. Lightgray interior. Horizontal lines y=k at250 andy=−k at750,xaxis500,yaxisx100,positivearrowsx y,originO. LetterlabelsA B above,C D below, alluprightserif. No curves. No other text/numbers/grid. White background,thinblacklines. Landscape.",
+    "c10e": "Add a onecycle SINE CURVE through allfour vertices A B C D, startingat origin andendingonxaxisrightofD. Reposition lowervertices C D far RIGHT so C is RIGHT ofB bysamegap asAtoB; D rightofC bysamegap. A B C D lefttoright uniformlyspaced. Add line labels y = k righttop,y = −k rightbottom. Keep fourstraight parallelogramedgesAC BD. Sinepositivepeak midwayA B,negativetrough midwayC D,zero midwayB C,curvepassesallfourvertices. Addno othertext. Pointnamesuprightroman. Purewhite,flatgray.",
+    "c10f": "Editthisgraph. Replace allcoordinatepointlabels with JUST uprightROMAN letters A B C D. Draw fullstraightsegmentAC betweenblackdotA andblackdotC; removeoldlineAtoincorrectfoot666. DrawfullstraightsegmentBD betweenblackdotB andblackdotD. Fill ONLY quadrilateral A→B→D→C→A gray,FOUR STRAIGHT EDGES. ExistingSINEmustremainvisiblesuperposed ongraypolygon,notusedasfillboundary. Preserve ALLFOUR blackdotsandlineintersections. KeepO x y,lineequations y=k y=−k. Endcurve onxaxis. Nootherchanges.",
+    "c10g": "Draw an accurate mathematical diagram with a single sine wave and a shaded parallelogram. Pure white background, black thin lines, serif labels. Coordinate map in a 1600 by 1000 image: origin (120,500), sine end (1400,500). Sine peak (440,180), zero (760,500), trough (1080,820). Four black dots ON the sine at A=(280,274), B=(600,274), C=(920,726), D=(1240,726). Thus ALL THREE consecutive horizontal gaps between the four dots are EXACTLY 320 pixels. Draw four STRAIGHT polygon edges A-B, B-D, D-C, C-A. Fill ONLY this parallelogram flat pale gray. The sine is a separate smooth black line passing through all four dots, bulging above AB and below CD. B-D and A-C are parallel straight descending diagonals; their endpoints must be the marked dots. Horizontal lines at y=274 and y=726 across image, with labels y=k and y=−k at right. Axis horizontal y=500 and vertical x=120, positive end arrows with x and y, O at origin. Point labels A B above upper dots and C D below lower dots. No numbers, no equation label, no extra dots, no grid. Correct equal spacing and four straight sides take priority.",
+    "c10h": "Correct the supplied diagram. Keep A at x292 and B at x621. MOVE C right to x950, and MOVE D right to x1279. Both C and D remain on lower horizontal y703. A B C D must therefore have equal horizontal gaps329. Redraw straight parallelogram A-B-D-C-A with its lightgray fill using these moved corners. Redraw sine independently: starts origin(122,480), peak(456,170), crossesaxis(785,480), trough(1114,790), ends(1443,480). Pass through all four dots A292,265 B621,265 C950,703 D1279,703. The sine must visibly separate from straight AC and BD. ONLY four named dots. Upright Roman A B C D O. Purewhite fineblack diagram. Keep y=k y=-k x y labels and existing axes."
+  },
+  "revisions": [
+    {
+      "date": "2026-10-10",
+      "edits": {
+        "c08": {
+          "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-2979c11b-81ef-4666-beff-29e41147b6af.png",
+          "width": 55,
+          "prompts": [
+            "Edit target: supplied math diagram. Change ONLY placement of the two equation labels. Erase existing equation text and put 'y = x² − 2x' immediately beside the TOP tip of the STEEPER curved branch (topmost endpoint near x998 y38). Put 'y = 2x' beside the LOWER tip of the less-steep straight line (endpoint near x991 y131), preferably to its right below the parabola label, with generous separation. Make association unmistakable. Preserve all curve geometry, axes, shading, dashed vertical, 4, O,x,y exactly. White background black serif math labels. No added objects.",
+            "Change ONLY position of text 'y = 2x': move it UP so it sits immediately to the RIGHT of the lower branch endpoint (the less steep straight line ending around x1000,y133). Its text baseline around y180, underneath the 'y = x² − 2x' text, and right of both graph strokes. Leave parabola label at top unchanged, and preserve all geometry, axes, fill and otherlabels. Two rows of equation labels: upperrow quadratic beside top endpoint, lowerrow linear beside lower endpoint. White background."
+          ]
+        },
+        "c10": {
+          "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-e62c20d5-f0ac-48e6-927a-cbe33d0716cb.png",
+          "width": 65,
+          "prompts": [
+            "Edit supplied diagram to correct the shaded quadrilateral and sine geometry. Keep its exam style and labels. Replace sine and polygon using this exact relative layout: origin x=0; sine peak x=2; sine crossesaxis x=4; trough x=6; end x=8. A x=1 and B x=3 at upperline y=k; C x=5 and D x=7 at lowerline y=-k. Therefore A B C D have equally spaced horizontal positions, and C is distinctly RIGHT of B (not immediately beneath B). All four dots lie on sine. Draw FOUR STRAIGHT SIDES connecting A→B→D→C→A and flat gray fill inside only. BD must END AT THE BLACK DOT D, not at any intermediate unmarked point. CA must START AT BLACK DOT C and end at A. No extra corner anywhere between C and D. Sine must be independent smooth S curve, passing through A,B,C,D and clearly curving away from straight diagonal edges CA and BD. Uniform x scale, y=k is .707 of peak height and y=-k is .707 of trough depth. Preserve axes O x y, two horizontal lines with labels y=k,y=-k, four point names A B C D only, no numbers or extra labels. Opaque white fine black lines.",
+            "Correct ONLY lower two corners and sine of this diagram. Current A=(290,256) and B=(665,256). Keep these. Move C from (666,699) to (1040,699). Move D from (1035,699) to (1415,699). Move their letters with them. Then A B C D horizontally are at 290,665,1040,1415: gaps375,375,375. Delete old bottom corners completely. Draw straight A-C, B-D, and C-D; fill parallelogram A B D C palegray. REDRAW entire sine to pass A,B,C,D: O=(118,473), peak=(478,151),zero=(853,473),trough=(1228,795),end=(1603,473). Extend canvas right if needed to fit endpoint and label. C must be on descending sine at x1040,D on ascending sine atx1415. Sine must NOT trace either straight AC orBD. Keep exam diagram black on white with O x y y=k y=-k four labels and ONLY FOUR dots. Exact equal horizontal spacing most critical.",
+            "Use supplied image as STYLE reference, but EDIT graph geometry completely. Mathematical construction must follow y=3sin(πx/4), x from0to8, with A=(1,2.121), B=(3,2.121), C=(5,-2.121), D=(7,-2.121). Equal linear x scale is essential. C MUST be to right of B by exactly the same distance as A to B. D to right of C by same distance. Four straight polygon segments AB, BD, DC, CA; gray fill. In particular CA crosses x-axis at x3, BD crosses x-axis at x5, while smooth sine crosses x-axis atx4 BETWEEN them. This order on x-axis MUST be left diagonal AC, then sine, then right diagonal BD. Current reference incorrectly overlaps curves and diagonals. At lowerline endpoints C and D, polygon closes, and sine dips below CD. At upperline AB sine archesabove. ONLY ONE sine curve. LabelsA B C D, y=k,y=-k,O,x,y. No coordinate numbers. Pure white black fine exam diagram. Prioritize exact mathematical construction over matching old geometry."
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "fig_c10_guide_revision": {
+        "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-5a9220ea-837b-42d8-b37e-6ba2cb20ed62.png",
+        "prompt": "Edit the supplied exact mathematical GUIDE into a final Korean CSAT exam diagram. Copy/tracing the guide's geometry precisely is the primary task. Maintain identical relative positions of EVERY stroke and every dot; NO rearranging. This guide is correct: A B C D equal horizontal spacing, C far to right of B; A andB upperline, C andD lowerline; all four ON sine. The lightgray parallelogram A-B-D-C has two straight parallel diagonals AC andBD. Sine is separate smoothly curved stroke BETWEEN those diagonals across the gray region, rising above AB and dipping below CD. Retain this exactly. Only refine raster clarity into fine uniform black exam line art, solid lightgray#D9D9D9 flat fill, purewhite opaque background. Keep all existing labels in the same positions, y=k,y=−k,x,y italic serif; A B C D O upright Roman serif. No numbers/grid/title/equation. Do not change shape, spacing, curve intersections or framing. Output faithful clean facsimile of guide.",
+        "reference": "figures/src/raw/fig_c10_guide.png",
+        "method": "matplotlib coordinate guide; image_gen final result; Pillow packaging only",
+        "inspection": {
+          "point_centres_px": [
+            [
+              259,
+              239
+            ],
+            [
+              570,
+              239
+            ],
+            [
+              873,
+              735
+            ],
+            [
+              1183,
+              735
+            ]
+          ],
+          "horizontal_gaps_px": [
+            311,
+            303,
+            310
+          ],
+          "notes": "All four dots on sine; four straight polygon edges meet dots; spacing maximum deviation from mean ~1.6%."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-f9821224-b510-4d9e-ae6e-626a34127739.png",
+  "prompt": "Trace this corrected coordinate guide faithfully as final Korean CSAT exam diagram. Preserve EXACTLY its geometric proportions and positions. Downward parabola y=−x²+4x roots0,4 vertex(2,4). Shallow straightline y=mx slope m=4−cuberoot32=.825197896, crossing falling parabola at(3.174802,2.61984), extends tox3.8. Intersection occurs at79.37% of horizontal distance from origin to4 and65.50% of peakheight. Straightline MUST stay this shallow. Fill upper region between line andparabola UNIFORM #D9D9D9; rest underparabolaaboveaxis UNIFORM #BFBFBF. NO gradient. Preserve correct twoareas and boundary. Thinblack lines, white opaque background. Exactlabels y=−x²+4x nearcurvepeak, y=mx atstraightline endpoint, 4belowroot,O,x,y; serifitalicmath withupright O. No extra labels,dots,ticks,grid. Do not use any earlier steeper-line version.",
+  "guide": "figures/src/raw/fig_c10_round3_corrected_guide.png"
+}

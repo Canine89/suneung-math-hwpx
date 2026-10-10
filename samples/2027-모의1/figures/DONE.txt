@@ -1,0 +1,16 @@
+Image generation exports; PNG, white background, 600 dpi.
+Dimensions below are actual raster dimensions at 600 dpi.
+
+fig_c07.png: 59.986 x 48.853 mm; 1417 x 1154 px; requested width 60 mm
+fig_c10.png: 70.019 x 47.879 mm; 1654 x 1131 px; requested width 70 mm
+fig_c14.png: 54.991 x 54.187 mm; 1299 x 1280 px; requested width 55 mm
+fig_m26.png: 59.986 x 34.586 mm; 1417 x 817 px; requested width 60 mm
+fig_m29.png: 54.991 x 38.227 mm; 1299 x 903 px; requested width 55 mm
+fig_g26.png: 59.986 x 41.317 mm; 1417 x 976 px; requested width 60 mm
+fig_g28.png: 49.996 x 47.794 mm; 1181 x 1129 px; requested width 50 mm
+
+Visual review performed; see src/REVIEW.txt.
+IMPORTANT: these are AI-generated illustrations, not numerically exact plots.
+Strict FIGURE_SPEC numerical/style compliance has NOT been certified.
+Generation prompts: src/prompts.json; original rasters: src/raw/.
+fig_c10.png revision: image_gen; 600dpi; 70.019 x 39.412 mm; BC/curve separated and curve ends on x-axis; A-B horizontal gap ~392px vs B-C ~430px in generated original (~10% residual mismatch), exact sine spacing not achieved.

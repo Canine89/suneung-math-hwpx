@@ -1,4 +1,5 @@
-# 저장소에는 스킬·AGENTS.md·조판 도구만 올린다 (문항·결과물·그림·보관본 제외)
+# 저장소에 올리는 것: 스킬·AGENTS.md·조판 도구·샘플 문제지
+# (작업 중인 problems/ figures/ output/ build/ 는 제외 — 끝난 회차는 samples/ 로 옮겨서 올린다)
 /*
 !/.gitignore
 !/README.md
@@ -9,3 +10,6 @@
 !/tools/
 /tools/__pycache__/
 /tools/secmod/
+!/samples/
+/samples/*/figures/src/raw/
+__pycache__/

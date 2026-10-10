@@ -1,0 +1,83 @@
+{
+  "round": 3,
+  "method": "Exact coordinate matplotlib guides as references; ALL final images image_gen outputs; Pillow packaging only.",
+  "jobs": [
+    {
+      "id": "fig_c09",
+      "width": 60,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Cosine 3cos(2x)+2: maxima at0 andπ, troughπ/2; dashed horizontal y=2 and vertical atπ/4. Label π/4 stacked fraction, y=2,y=f(x),O,x,y only. Keep equation label clear of curve.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-5d378673-7f3f-447f-bd7a-c1c56cb5f459.png",
+      "guide": "figures/src/raw/fig_c09_guide.png",
+      "inspection": "최댓점 0/π, 최솟점 π/2, y=2 교점 π/4·3π/4 및 π/4 점선 수선·분수 라벨 확인. 위치·진폭 비율 가이드와 근접."
+    },
+    {
+      "id": "fig_c10",
+      "width": 55,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Downward parabola roots0,4 peak(2,4); line y=mx intersects at(2.52,3.73). Two FLAT gray shades: upper cap between curve and line light, remaining underparabola darker. Put quadratic label beside falling parabola at right, linear label at top straightline endpoint; preserve correct association.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-f9821224-b510-4d9e-ae6e-626a34127739.png",
+      "edits": [
+        {
+          "prompt": "Change ONLY the two area fills to UNIFORM FLAT solid tones, remove all gradients and lighting. Upper cap between parabola and straightline must be constant #D9D9D9 (RGB217). Remaining area belowline and underparabola above xaxis must constant #BFBFBF (RGB191). These two equal-area regions must be clearly distinguishable. Preserve every black stroke, labels, intersection position and framing precisely. White background remains white. No otherchanges.",
+          "previous_source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-84734a10-5862-4414-a1ca-0d3860adf829.png"
+        }
+      ],
+      "guide": "figures/src/raw/fig_c10_round3_corrected_guide.png",
+      "inspection": "修正 m=4−∛32≈0.825198, 교점(3.174802,2.619840). 가이드와 기울기·교점·음영·라벨 대조 완료. 약한 음영 농도 변화 잔존.",
+      "revisions": [
+        {
+          "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-f9821224-b510-4d9e-ae6e-626a34127739.png",
+          "prompt": "Trace this corrected coordinate guide faithfully as final Korean CSAT exam diagram. Preserve EXACTLY its geometric proportions and positions. Downward parabola y=−x²+4x roots0,4 vertex(2,4). Shallow straightline y=mx slope m=4−cuberoot32=.825197896, crossing falling parabola at(3.174802,2.61984), extends tox3.8. Intersection occurs at79.37% of horizontal distance from origin to4 and65.50% of peakheight. Straightline MUST stay this shallow. Fill upper region between line andparabola UNIFORM #D9D9D9; rest underparabolaaboveaxis UNIFORM #BFBFBF. NO gradient. Preserve correct twoareas and boundary. Thinblack lines, white opaque background. Exactlabels y=−x²+4x nearcurvepeak, y=mx atstraightline endpoint, 4belowroot,O,x,y; serifitalicmath withupright O. No extra labels,dots,ticks,grid. Do not use any earlier steeper-line version.",
+          "guide": "figures/src/raw/fig_c10_round3_corrected_guide.png"
+        }
+      ]
+    },
+    {
+      "id": "fig_c13",
+      "width": 55,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Two logarithms y=log₂x and y=log₂(x−4), vertical x=k. A(8,3),B(8,2),C(12,3). A andB SAME vertical, A andC SAME horizontal. Triangle gray bounded straightAB AC CB, curveBC slightly bulges above chord. Keep all three dotsoncorrectcurves, shifted logarithm below unshifted. Labels on right exact subscripts2 and parentheses(x−4).",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-f8946f29-1b70-4ddd-829f-54a80708b41d.png",
+      "guide": "figures/src/raw/fig_c13_guide.png",
+      "inspection": "A·B 동일 세로선, A·C 동일 가로선, x=8과 C x=12 간격 및 두 로그 곡선 교점 확인. AC에 미세 굽음/기울기; CB와 곡선은 가깝지만 구별됨."
+    },
+    {
+      "id": "fig_c14",
+      "width": 50,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Exact circle and scalene triangle ABC, A upperleft on circle,B bottomleft,C bottomright. AB length4 AC6 BCsqrt40, circlecenter(3.162,.816) radius3.266. NO shading or axes. Do not turn circle into oval. Preserve triangle side proportions, same dotlocations and romanlabels outsidecircle.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-29e1cfca-ed41-478f-b24a-f6e2550c4dcb.png",
+      "guide": "figures/src/raw/fig_c14_guide.png",
+      "inspection": "원형 유지, A/B/C 외접원 위·세 선분·라벨 확인. 점 중심 기준 AB:AC:BC≈4:6:√40, 가이드 좌표와 근접."
+    },
+    {
+      "id": "fig_m27",
+      "width": 55,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Log y=lnx and tangent y=x/e touching at(e,1). Preserve true smooth tangency, curve BELOW straight tangent on BOTH sides of contact. Only contact has dot, vertical dashed down to e. Gray region between tangent and xaxis x0to1, then between tangent andlog x1toe. Labels ln x on lower curved branch endpoint,1,e,O,x,y; NO label on tangent.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-5fbeb2fa-b156-4ed4-a525-79d781571fe5.png",
+      "guide": "figures/src/raw/fig_m27_guide.png",
+      "inspection": "접점(e,1)·접선·로그곡선·색칠 영역·점선 수선·1/e 라벨 확인. 접점 근방 두 선이 인쇄상 붙어 보일 수 있음; 음영 농도 미세 변화."
+    },
+    {
+      "id": "fig_m29",
+      "width": 50,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Quarter circle centerO lowerleft, A lowerright B upperleft. P=(.866,.5),Q=(0,.5),R=(.75,.433). Preserve angle30degrees and very thin elongated triangle PQR, darkgray; circular segment PA lightgray. R ON OP, AR perpendicularOP marker atR; PQ perpendicularOB markeratQ. Keep all sevensegments OA OB OP PQ AR QR PA and arcAB, θ atO. Roman point names O A B P Q R clear beside dots. No coordinate axes or numbers.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-af76cc10-5a80-4f95-af5b-e2426c610246.png",
+      "guide": "figures/src/raw/fig_m29_guide.png",
+      "inspection": "P·Q 동일 높이, Q는 OB 위, R은 OP 위, θ≈30°·두 직각 표시·일곱 선분 및 두 음영 확인. 원본 좌표 비율 P≈(.865,.499), R≈(.747,.429)로 사양 근접. 음영 미세 농도 변화."
+    },
+    {
+      "id": "fig_g26",
+      "width": 60,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Ellipse horizontal radius4 verticalradius sqrt7, focuses(-3,0),(3,0), P=(1.333,2.494) onellipse upperright. Preservefocusdistance andP exactlocation. Two solidchords PF PF′. DotsonlyF,F′,P; no dotatO. LabelsF′ leftfocus,F rightfocus,P,O,x,y only. No shading.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-9b8aa4f2-eb05-470d-9a91-f037704b8650.png",
+      "guide": "figures/src/raw/fig_g26_guide.png",
+      "inspection": "타원 장단축·초점±3·P 및 두 연결선 확인. 원본 픽셀 비율 P≈(1.35,2.47), 사양(1.333,2.494) 대비 약1% 근사."
+    },
+    {
+      "id": "fig_g28",
+      "width": 45,
+      "prompt": "Faithfully trace the supplied precise mathematical guide as a final Korean CSAT exam illustration. All geometry, relative positions, proportions, curve intersections, straight segments, dotted versus solid lines, and shaded areas MUST stay identical to guide. Only refine into clean fine black line art on pure WHITE opaque background. Flat gray #D9D9D9 and #BFBFBF exactly where guide uses them. Serif math labels; equations and variables italic, named points UPRIGHT ROMAN. No titles, extra symbols, grids, ticks or numbers. Preserve every required label and small positive-axis arrow. Geometry preservation has highest priority. Cube vertices upperface ABCD lowerface EFGH, AaboveE,BaboveF,CaboveG,DaboveH. Preserve guide projection and labels. Exactly THREE hidden EDGES DH,HG,HE dashed; additionally bottom diagonal EG dashed. Interior space diagonal AG MUST solid fromAtoG. All other edges solid. No shading/axes/dotsadded. Move ONLY H label a little LEFT of hiddenvertexH so it does not touch dashedsegments. All eightRoman labelsA B C D E F G H.",
+      "source": "C:\\Users\\canine89\\.codex\\generated_images\\01a120d6-ef13-7ce3-b231-e1b921932542\\exec-5aac02db-9cff-4e3b-9408-4757efa036cb.png",
+      "guide": "figures/src/raw/fig_g28_guide.png",
+      "inspection": "윗면 ABCD/아랫면 EFGH, 수직 대응, 가려진 DH/HG/HE 점선3개, EG 점선, AG 실선 및8개 라벨 확인. B 라벨이 BC 근처에 다소 가까움."
+    }
+  ]
+}
